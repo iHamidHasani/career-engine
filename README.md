@@ -27,7 +27,7 @@ The system maps a structured candidate profile to a corpus of job descriptions u
 
 ## Status
 
-Active. Used to produce the author's own application portfolio across ~12 robotics / 3D-recon targets.
+Active. Used to produce the author's own application portfolio.
 
 ## Author
 
